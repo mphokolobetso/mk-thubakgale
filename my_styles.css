@@ -1,0 +1,18 @@
+body {
+        background-color: black;
+ {
+
+h1 { 
+        font-family: arial;
+        color: yellow;
+ }
+h2 {
+        font-family: comic-sans;
+        color: blue;
+ }
+
+ p { 
+        background-color: purple;
+        font-family: calibri;
+	color: pink
+ }
