@@ -1,5 +1,6 @@
 body {
         background-color: coral;
+	color: green;
  {
 
 h1 { 
@@ -14,5 +15,5 @@ h2 {
  p { 
         background-color: blue;
         font-family: calibri;
-	color: pink
+	color: pink;
  }
